@@ -1,6 +1,0 @@
-(sym_lib_table
-  (version 7)
-  (lib (name "555 Badge Library")(type "KiCad")(uri "${KIPRJMOD}/555 Badge Library.kicad_sym")(options "")(descr ""))
-  (lib (name "dk_Battery-Holders-Clips-Contacts")(type "Legacy")(uri "C:/Users/eduar/Desktop/Electronics and Hardware/KiCad/- Libraries - KiCad/digikey-kicad-library-master/digikey-symbols/dk_Battery-Holders-Clips-Contacts.lib")(options "")(descr ""))
-  (lib (name "dk_Slide-Switches")(type "Legacy")(uri "C:/Users/eduar/Desktop/Electronics and Hardware/KiCad/- Libraries - KiCad/digikey-kicad-library-master/digikey-symbols/dk_Slide-Switches.lib")(options "")(descr ""))
-)
